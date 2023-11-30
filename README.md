@@ -3,7 +3,7 @@
 My name is Tikhon, and I'm currently a student at Saint Petersburg Polytechnic University.
 
 ## About Me
-- 📚 Studying at [Saint Petersburg Polytechnic University](https://www.spbstu.ru/?ysclid=lplo7rg7la234669824)
+- 📚 Studying at [Saint Petersburg Polytechnic University](https://www.spbstu.ru/)
 
 ## Projects
 Here are some of the projects I'm currently working on or have completed:
