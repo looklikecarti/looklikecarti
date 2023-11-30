@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**looklikecarti/looklikecarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tikhon, and I'm currently a student at Saint Petersburg Polytechnic University.
 
-Here are some ideas to get you started:
+## About Me
+- 📚 Studying at [Saint Petersburg Polytechnic University](https://www.spbstu.ru/?ysclid=lplo7rg7la234669824)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+Here are some of the projects I'm currently working on or have completed:
+
+ **[project-x](https://github.com/looklikecarti/project-x)**
+   - еhe main repository
+
+
+Feel free to explore my repositories and provide any feedback or suggestions. Contributions are always welcome!
+
 -->
